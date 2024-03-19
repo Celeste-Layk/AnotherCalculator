@@ -19,7 +19,7 @@ html {
   width: 400px;
   padding: 40px;
   padding-top: 75px;
-  background: linear-gradient(to right, #4bc0c8, #c779d0, #feac5e);
+  background: linear-gradient(45deg, #4bc0c8, #c779d0, #feac5e);
   border-radius: 25px;
 }
 .calculatorScreen {
